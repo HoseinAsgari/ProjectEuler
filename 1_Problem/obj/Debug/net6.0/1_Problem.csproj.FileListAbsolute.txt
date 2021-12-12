@@ -1,0 +1,15 @@
+/home/hosein/Templates/ProjectEuler/1_Problem/obj/Debug/net6.0/1_Problem.csproj.AssemblyReference.cache
+/home/hosein/Templates/ProjectEuler/1_Problem/obj/Debug/net6.0/1_Problem.GeneratedMSBuildEditorConfig.editorconfig
+/home/hosein/Templates/ProjectEuler/1_Problem/obj/Debug/net6.0/1_Problem.AssemblyInfoInputs.cache
+/home/hosein/Templates/ProjectEuler/1_Problem/obj/Debug/net6.0/1_Problem.AssemblyInfo.cs
+/home/hosein/Templates/ProjectEuler/1_Problem/obj/Debug/net6.0/1_Problem.csproj.CoreCompileInputs.cache
+/home/hosein/Templates/ProjectEuler/1_Problem/bin/Debug/net6.0/1_Problem
+/home/hosein/Templates/ProjectEuler/1_Problem/bin/Debug/net6.0/1_Problem.deps.json
+/home/hosein/Templates/ProjectEuler/1_Problem/bin/Debug/net6.0/1_Problem.runtimeconfig.json
+/home/hosein/Templates/ProjectEuler/1_Problem/bin/Debug/net6.0/1_Problem.dll
+/home/hosein/Templates/ProjectEuler/1_Problem/bin/Debug/net6.0/ref/1_Problem.dll
+/home/hosein/Templates/ProjectEuler/1_Problem/bin/Debug/net6.0/1_Problem.pdb
+/home/hosein/Templates/ProjectEuler/1_Problem/obj/Debug/net6.0/1_Problem.dll
+/home/hosein/Templates/ProjectEuler/1_Problem/obj/Debug/net6.0/ref/1_Problem.dll
+/home/hosein/Templates/ProjectEuler/1_Problem/obj/Debug/net6.0/1_Problem.pdb
+/home/hosein/Templates/ProjectEuler/1_Problem/obj/Debug/net6.0/1_Problem.genruntimeconfig.cache
