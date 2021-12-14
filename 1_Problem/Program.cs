@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _1_Problem;
+﻿namespace _1_Problem;
 
 class Program
 {
