@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tn2SsHhJTVAyHMlAht5MFY3KMlXxwwQq50HfvurgEx7Hp09e3i1RvVJsHYLHA0Hg83Qyh10o4k5mbn40BQQsNg==",
+  "dgSpecHash": "VPEy2pWT1LXyUWsfGitE0HcC/2pQovzzCGjEM1nmpZ6oLLPiRMxCYoFApwoXs6xRhb+kabIttOBMvaFeaizlbQ==",
   "success": true,
-  "projectFilePath": "/home/hosein/Templates/ProjectEuler/1_Problem/1_Problem.csproj",
+  "projectFilePath": "/home/hosein/Projects/ProjectEuler/1_Problem/1_Problem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hosein/Templates/ProjectEuler/1_Problem/1_Problem.csproj",
+      "projectUniqueName": "/home/hosein/Projects/ProjectEuler/1_Problem/1_Problem.csproj",
       "projectName": "1_Problem",
-      "projectPath": "/home/hosein/Templates/ProjectEuler/1_Problem/1_Problem.csproj",
+      "projectPath": "/home/hosein/Projects/ProjectEuler/1_Problem/1_Problem.csproj",
       "packagesPath": "/home/hosein/.nuget/packages/",
-      "outputPath": "/home/hosein/Templates/ProjectEuler/1_Problem/obj/",
+      "outputPath": "/home/hosein/Projects/ProjectEuler/1_Problem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hosein/.nuget/NuGet/NuGet.Config"
