@@ -15,7 +15,7 @@ class Program
         // call the main method
         long largestValue = GetLargestPrimeFactor(600851475143);
 
-        Console.WriteLine("\nAnswer of the second problem: {0}", largestValue);
+        Console.WriteLine("\nAnswer of the third problem: {0}", largestValue);
     }
 
 
