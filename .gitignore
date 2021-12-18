@@ -1,5 +1,5 @@
 # Vs code debugging tools
-.vscode/*
+.vscode/
 [Ll]aunch.json
 [Tt]asks.json
 
