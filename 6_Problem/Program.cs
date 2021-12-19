@@ -2,7 +2,7 @@
 
 public static class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         List<long> rangeOfNumber = GetRange(1, 100);
 

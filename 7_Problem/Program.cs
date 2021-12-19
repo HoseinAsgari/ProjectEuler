@@ -4,7 +4,7 @@ public class Program
 {
     static List<long> FoundPrimeNumbers = new();
 
-    static void Main(string[] args)
+    static void Main()
     {
         long primeNumber = GetPrime(10001);
 

@@ -5,7 +5,7 @@ class Program
     // this is for keeping found prime numbers into it
     static List<long> FoundPrimeNumbers = new();
 
-    static void Main(string[] args)
+    static void Main()
     {
         Console.WriteLine("running for find value can take an hour to process and calculate...");
 

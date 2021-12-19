@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         List<int> numbers = GetEvenFibonacciNumbers(4000000);
 

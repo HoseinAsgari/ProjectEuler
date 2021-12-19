@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         long number = GetDividableNumberInRange(1, 20);
 
