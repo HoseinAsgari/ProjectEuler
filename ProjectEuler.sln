@@ -15,6 +15,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Problem", "5_Problem\5_Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Problem", "6_Problem\6_Problem.csproj", "{D64F769E-9CE9-41CA-8DAC-6C6AE81DA2B4}"
 EndProject
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Problem", "7_Problem\7_Problem.csproj", "{D64F769E-9CE9-41CA-8DAC-6C6AE81DA2B4}"
+EndProject
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Problem", "8_Problem\8_Problem.csproj", "{D64F769E-9CE9-41CA-8DAC-6C6AE81DA2B4}"
+EndProject
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_Problem", "9_Problem\9_Problem.csproj", "{D64F769E-9CE9-41CA-8DAC-6C6AE81DA2B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
